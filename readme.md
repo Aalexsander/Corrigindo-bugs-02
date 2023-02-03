@@ -11,9 +11,13 @@
 
 <br>
 
-## Project
+## Projeto
 
 O projeto Corrigindo bugs foi desenvolvido e proposto pela escola Rocketseat para treino de ```flexbox```.
+
+Nele tomei liberdade de pequenas alterações. Como alterar a cor do ```link``` em ```treine.me```, ```boarder-bottom``` na <strong>UI</strong> da navegação e transições nas sobreposições de ```hover``` para deixar um toque mais suave.
+
 <div>
-  <img src=".github\msedge_3ZDzQPcrxG.png" width="100%">
+  <img src=".github\ApplicationFrameHost_lpvMX3zqm0.gif" width="100%">
+  <p align="center">comparativo de antes e depois</p>
 </div>
